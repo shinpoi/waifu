@@ -1,4 +1,4 @@
-## [demo](https://pc.aoi-lucario.org/utils/)
+## [demo](https://pc.aoi-lucario.org)
 
 ```
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                               
